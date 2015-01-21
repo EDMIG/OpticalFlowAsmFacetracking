@@ -1,0 +1,6 @@
+/Users/wei/Documents/EMG/stasm4.1.0/release/CMakeFiles/minimal.dir
+/Users/wei/Documents/EMG/stasm4.1.0/release/CMakeFiles/minimal2.dir
+/Users/wei/Documents/EMG/stasm4.1.0/release/CMakeFiles/stasm.dir
+/Users/wei/Documents/EMG/stasm4.1.0/release/CMakeFiles/stasmMain.dir
+/Users/wei/Documents/EMG/stasm4.1.0/release/CMakeFiles/swas.dir
+/Users/wei/Documents/EMG/stasm4.1.0/release/CMakeFiles/tasm.dir
